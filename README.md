@@ -2,6 +2,8 @@
 This repo is to understand and learn form Mona Lisa.  
 Major difference between the Mona Lisa project is that we want to try this on Colab, and integrate ear EEG.
 
+This project was originally forked from https://github.com/Leoputera2407/tyler_silent_speech
+
 The notebook that I tried to recreate this: [main.ipynb](https://github.com/chanulee/silent_speech/blob/main/main.ipynb)
 
 ### Resources
